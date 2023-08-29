@@ -10,10 +10,10 @@ After extensive training and fine-tuning, each model has demonstrated strong per
 
 ## Text Emotion Recognition
 
-Accuracy: XX% \n
-Precision: XX% \n
-Recall: XX% \n
-F1 Score: XX% \n
+Accuracy: XX% 
+Precision: XX% 
+Recall: XX% 
+F1 Score: XX% 
 
 ## Sentiment Analysis
 
