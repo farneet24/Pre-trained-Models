@@ -10,21 +10,21 @@ After extensive training and fine-tuning, each model has demonstrated strong per
 
 ## Text Emotion Recognition
 
-Accuracy: XX% 
-Precision: XX% 
-Recall: XX% 
-F1 Score: XX% 
+Accuracy: XX%  
+Precision: XX%  
+Recall: XX%  
+F1 Score: XX%   
 
 ## Sentiment Analysis
 
-Accuracy: XX%
-Precision: XX%
-Recall: XX%
-F1 Score: XX%
+Accuracy: XX%  
+Precision: XX%  
+Recall: XX%  
+F1 Score: XX%  
 
 ## Cyberbullying Detection and Classification
 
-Accuracy: XX%
-Precision: XX%
-Recall: XX%
-F1 Score: XX%
+Accuracy: XX%  
+Precision: XX%  
+Recall: XX%  
+F1 Score: XX%  
