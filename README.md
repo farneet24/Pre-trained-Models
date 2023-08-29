@@ -10,13 +10,16 @@ After extensive training and fine-tuning, each model has demonstrated strong per
 
 ## Text Emotion Recognition
 
-Accuracy: XX%  
-Precision: XX%  
-Recall: XX%  
-F1 Score: XX%   
+**Model Architecture:** Fine-tuned RoBERTa  
+**Performance Metrics:**
+**Accuracy:** XX%  
+**Precision:** XX%  
+**Recall:** XX%  
+**F1 Score:** XX%   
 
 ## Sentiment Analysis
 
+- I fine-tuned Roberta for this
 Accuracy: XX%  
 Precision: XX%  
 Recall: XX%  
@@ -24,6 +27,7 @@ F1 Score: XX%
 
 ## Cyberbullying Detection and Classification
 
+- I fine-tuned XLNet for this
 Accuracy: XX%  
 Precision: XX%  
 Recall: XX%  
