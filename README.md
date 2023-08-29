@@ -1,4 +1,9 @@
-# Pre-trained-Models
-The repository contains codes of three pre-trained models, fine tuned for text emotion recognition, sentiment analysis and cyberbullying detection and classification. The metrics for each model after training are as follows
+# Overview
+This repository hosts the source code for three distinct machine learning models, each fine-tuned for specific Natural Language Processing (NLP) tasks:
 
-### Text Emotion Recognition
+1. Text Emotion Recognition: Classifies the emotional content in a given text.
+2. Sentiment Analysis: Analyzes text to determine the sentiment (positive, negative, neutral).
+3. Cyberbullying Detection and Classification: Identifies and categorizes instances of online harassment or bullying.
+
+# Model Performance Metrics
+After extensive training and fine-tuning, each model has demonstrated strong performance as indicated by the following metrics:
