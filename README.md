@@ -30,7 +30,7 @@ After extensive training and fine-tuning, each model has demonstrated strong per
 
 **Model Architecture:** Fine-tuned XLNet  
 **Performance Metrics:**  
-- **Accuracy:** XX%  
-- **Precision:** XX%  
-- **Recall:** XX%  
-- **F1 Score:** XX%  
+- **Accuracy:** 99.56%  
+- **Precision:** 99.55%  
+- **Recall:** 99.56%  
+- **F1 Score:** 99.56%  
