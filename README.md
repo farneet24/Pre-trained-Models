@@ -9,18 +9,21 @@ This repository hosts the source code for three distinct machine learning models
 After extensive training and fine-tuning, each model has demonstrated strong performance as indicated by the following metrics:
 
 ## Text Emotion Recognition
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-- F1 Score: XX%
+
+Accuracy: XX% \n
+Precision: XX% \n
+Recall: XX% \n
+F1 Score: XX% \n
 
 ## Sentiment Analysis
+
 Accuracy: XX%
 Precision: XX%
 Recall: XX%
 F1 Score: XX%
 
 ## Cyberbullying Detection and Classification
+
 Accuracy: XX%
 Precision: XX%
 Recall: XX%
